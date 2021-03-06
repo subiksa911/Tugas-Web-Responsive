@@ -5,19 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Subiksa Store</title>
         <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     </head>
-    <body >
+    <body>
         <div class="container">
             <header class="header">
 
                 <div class="hero">
                     <h3 class="sub-heading" style="text-decoration-color: white;">RTX 3000 Series</h3>
                 </div>
-                <div class="feature feature-1">
-                    <h4 class="price">IDR 15.000.000</h4>    
+                <div class="feature feature-1">    
                     </div>
                 <div class="feature feature-2">
-                    <h4 class="price">IDR 10.000.000</h4>
                     </div>
             </header>
 
@@ -30,7 +30,7 @@
                     <li><a href="">Beranda</a></li>
                     <li><a href="">Produk</a></li>
                     <li><a href="">Tentang</a></li>
-                    <li><a href="">Galeri</a></li>
+                    <li><a href="http://localhost/Latihan/media/login.php">Log-In</a></li>
                 </ul>
             </nav>
             <section class="services">
