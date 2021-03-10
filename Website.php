@@ -29,7 +29,7 @@
                 <ul class="menu-list">
                     <li><a href="">Beranda</a></li>
                     <li><a href="">Produk</a></li>
-                    <li><a href="">Tentang</a></li>
+                    <li><a href="http://localhost/Latihan/media/aritmatika.php">Deret Aritmatika & Fibonanci</a></li>
                     <li><a href="http://localhost/Latihan/media/login.php">Log-In</a></li>
                 </ul>
             </nav>
